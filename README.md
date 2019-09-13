@@ -26,12 +26,16 @@ In the latter part of the playground, I allow the kids/users’ imagination to r
 * learning the actual science facts (the actual math behind flower-pattern formation between the dance of Venus-Earth) and then 
 * allow them to apply the scientific knowledge they have learnt earlier together with their creativity to create art. 
 
-The playground allows them to draw line between any planets, using any colours, in combination with the science aspects of the orbits. Users are limited by nothing, but their creativity. The whole point is to convey the message that we should always look beyond the box.
-
 *Essentially, it’s about one Playground, but infinite possibilities.*
 
 
-### Using science to create MUSIC 🎼
+## Using science to create ARTS 🎨
+* by altering the lines' colours and inter-planetary rotational speeds
+
+![title](screenshots/readme3.PNG)
+![title](screenshots/readme7.PNG)
+
+## Using science to create MUSIC 🎼
 * by experimenting with different orbital speeds, notice the formation of 4th and 5th harmonic?
 
 ![title](screenshots/readme6.PNG)
@@ -39,11 +43,6 @@ The playground allows them to draw line between any planets, using any colours, 
 ![title](screenshots/readme8.PNG)
 
 
-### Using science to create ARTS 🎨
-* by altering the lines' colours and inter-planetary rotational speeds
-
-![title](screenshots/readme3.PNG)
-![title](screenshots/readme7.PNG)
 
 
 
