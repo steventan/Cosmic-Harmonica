@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>Try changing the drawingFrequency value to get a &quot;denser&quot; pattern.</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>Want the orbit of an individual planet to stand out? Choose a brighter colour for it! </string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>It is recommended that you start with two lines first to create your pattern. </string>
+		</dict>
+	</array>
+</dict>
+</plist>
