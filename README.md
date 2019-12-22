@@ -1,4 +1,4 @@
-# Cosmics Harmonica
+# Cosmic Harmonica
 
 [![WWDC](https://img.shields.io/badge/WWDC%20Scholarship-Winner-4099FF.svg)](https://developer.apple.com/wwdc)
 
