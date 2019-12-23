@@ -1,48 +1,32 @@
-# Cosmic Harmonica
-
 [![WWDC](https://img.shields.io/badge/WWDC%20Scholarship-Winner-4099FF.svg)](https://developer.apple.com/wwdc)
 
-Using science to create art 🎨- WWDC19 Scholarship Winner
+# Cosmic Harmonica - the fusion of art and science
 
 ![title](screenshots/readme1.jpg)
 
-
 ### About:
 
-While the intention of allowing the users to learn about science concepts (i.e. rotational speed, orbital radius) is paramount, there is also a bigger purpose to it for this playground. It is about changing the perception in our society.
-
-### Design Rationale:
-
-In the latter part of the playground, I allow the kids/users’ imagination to run wild (as that is all that is about arts, freedom to think). The playground encourages them to create geometrical patterns using science concepts that they will learn in this playground. And by altering the orbital speed and radius, they get to understand how it affects the formation of geometrical patterns, the maths and the science behind the arts.
-
-### Author:
-[Steven Tan](https://github.com/StevenTan)
-
-## Screenshot:
+While the primary aim is to help users learn about physics concepts such as rotational speed and orbital radius, this playground also has a broader mission - to shift societal perceptions to understand the importance of art in our daily lives.
 
 ![title](screenshots/readme2.PNG)
 
-## So the whole sequence is 
-* learning the actual science facts (the actual math behind flower-pattern formation between the dance of Venus-Earth) and then 
-* allow them to apply the scientific knowledge they have learnt earlier together with their creativity to create art. 
+### Design Rationale:
 
-*Essentially, it’s about one Playground, but infinite possibilities.*
+In the latter part of the playground, I encourage kids and users to let their imaginations run wild, embracing the freedom of artistic thinking. Here, the playground inspires them to craft geometrical patterns using physics concepts they've learned. By manipulating orbital speed and radius, they gain a deeper understanding of how these factors affect the formation of geometric patterns, bridging the gap between physics, mathematics, and art.
 
+## It’s one Swift Playground, but limitless possibilities:
+* First, they learn the actual science facts, including the mathematics behind the formation of flower patterns through the dance of Venus and Earth.
+* Then, they get the chance to apply the physics knowledge they've just learnt, combined with their creativity, to create art.
 
-## Using science to create ARTS 🎨
-* by altering the lines' colours and inter-planetary rotational speeds
+## 🎨 Using science to create ARTS 
+* By adjusting the colors of the lines and the rotational speeds of the celestial bodies...
 
 ![title](screenshots/readme3.PNG)
 ![title](screenshots/readme7.PNG)
 
-## Using science to create MUSIC 🎼
-* by experimenting with different orbital speeds, notice the formation of 4th and 5th harmonic?
+## 🎼 Using science to create MUSIC
+* By experimenting with different orbital speeds, have you noticed the formation of the 4th and 5th harmonics?
 
 ![title](screenshots/readme6.PNG)
 ![title](screenshots/readme5.PNG)
 ![title](screenshots/readme8.PNG)
-
-
-
-
-
